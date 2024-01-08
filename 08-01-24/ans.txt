@@ -1,0 +1,4 @@
+<div><p></p></div><div class="a b"><p></p></div><div class="a c"><p></p></div><div class="a d"><p></p></div><div class="a e"><p></p></div><style>*{background:#0C2428;}
+div{width:100;height:100;background:#d9d9d9;position:fixed;
+margin:92+142}p{width:40;height:40;border-radius:50%;
+position:fixed;margin:30+30}.a{transform:scale(0.5);}.b{top:58;left:58}.c{top:-42;left:58}.d{top:-42;left:-42}.e{top:58;left:-42}</style>
