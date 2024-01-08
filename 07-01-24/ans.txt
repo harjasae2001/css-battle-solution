@@ -1,0 +1,15 @@
+<div></div>
+<style>
+  *{
+    background:#F89F65;
+  }
+  div {
+    width: 180px;
+    height: 120px;
+    transform: skew(0deg, 16.7deg);
+    background: linear-gradient(to right,#5E0000 0 11%,#F89F65 11% 22%,#5E0000 22% 33%,#F89F65 33% 44.5%,#5E0000 44.5% 55%,#F89F65 55.5% 66%,#5E0000 67% 77%,#F89F65 77.5% 89%,#5E0000 89% 100%);
+    position: absolute;
+    top: 87;
+    left: 110
+  }
+</style>
