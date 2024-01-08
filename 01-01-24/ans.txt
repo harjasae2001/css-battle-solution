@@ -1,0 +1,40 @@
+<div>
+  <h1></h1>
+  <h1 id="a"></h1>
+</div>
+<p></p>
+<style>
+  *{
+    background:#14313E;
+  }
+  div {
+    width:150;
+    height:135;
+    background: linear-gradient(to top,#BD3F4C 0 12%,#F16348 12% 26%,#BD3F4C 26% 37%,#F16348 37.5% 52.5%,#BD3F4C 52.5% 63%,#F16348 63% 78%,#BD3F4C 78% 100%);
+    position: absolute;
+    top:90;
+    left: 125
+  }
+  p{
+    width:30;
+    height:29;
+    border-radius:50%;
+    background:#F16348;
+    position: absolute;
+    top: 59.5;
+    left: 185;
+  }
+  h1{
+    width: 75;
+    height: 134;
+    background:#14313E;
+    clip-path:polygon(0 0,100% 0,0 100%);
+    margin:0
+  }
+  #a{
+    transform:scaleX(-1);
+    position: absolute;
+    top:0;
+    left: 75
+  }
+</style>
