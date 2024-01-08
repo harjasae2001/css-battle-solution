@@ -1,0 +1,5 @@
+<div></div><div id="a"></div><div id="b"></div><div id="c"></div><div id="d"></div><style>*{background: #7EA26F}
+div{background:#204F23;position:absolute;top:70;left:120;
+width:160;height:20}#a{top:210;}#b{top:140;left:140;width:120
+}#c{left:160;height:150;width:80}#d{background:#7EA26F;top:140;
+left:190;width:20}</style>
