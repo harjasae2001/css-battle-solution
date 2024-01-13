@@ -1,0 +1,8 @@
+<div><h2><p><h1></div>
+<div class="a"><h2><p><h1></div>
+<style>*{background:#7BAFDE;}h2 {width:90;height:40;top:110; background:#6867D4;position:absolute;left:100}
+p{position: fixed;top:26;left:100;width:90;height:60;
+background:#000039;clip-path:polygon(0 0,0 100%, 100% 100%)}
+h1{position:absolute;left:100;top:168;height:60;width:90;
+background:#000039;clip-path:polygon(0 0,100% 0,0 100%)}
+.a{transform: rotateY(180deg);margin:-8-8;top:100;}
