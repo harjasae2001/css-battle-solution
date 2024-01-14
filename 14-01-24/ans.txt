@@ -1,0 +1,6 @@
+<p><h1><h2></h2><div></div><h3><style>*{ background:#7C402E;}div{width:100;height:150;margin:125+167;background:#F1E5DF;border-radius:50px}h3{width:50;
+height:150;background:#F1E5DF;border-radius:50px;
+margin:-275+292}p{background:#F1E5DF;width:100;height:50;
+position:absolute;top:159;left:50}h1{width:100;height:100;
+background:#F1E5DF;clip-path:circle(50% at 0%); margin:75+92}h2{width:50;height:50;background:#F1E5DF;
+border-radius:50%;margin:-175+42}
