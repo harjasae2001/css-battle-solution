@@ -1,0 +1,5 @@
+<div><p id="a"><p><style>*{background:#F7BED9;}div{width:20;
+height:180;background:#8B0051;border-radius:20px;margin:60+122
+}p{width:90;height:60;background:#F069AB; top:62; left:150;
+border-radius:0 10px 10px 0;position:absolute}#a{top:82; 
+background:#EC0076;border-bottom-left-radius:10px;left:180}
