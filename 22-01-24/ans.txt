@@ -1,0 +1,4 @@
+<div><p><p class="a"><p class="a b"><style>*{ background:#024817 }div {width:150;height:150;margin:50+117;
+background:#088540;border-radius:50%;}p{width:20;height:220;
+background:#83CF9D;position:absolute;border-radius:10px;
+top:80;left:190}.a{height:64;top:95;left:209.9;transform: rotate(45deg)}.b{transform:rotate(-45deg);left:170
