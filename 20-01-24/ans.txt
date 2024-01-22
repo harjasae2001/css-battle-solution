@@ -1,0 +1,26 @@
+
+<div>
+  <p>
+</div>
+<h1>
+<style>
+  *{
+    background: #602820
+  }
+  div {
+    width: 150px;
+    height: 160px;
+    background:#FAC2A8;
+    margin: 70+118;
+    z-index:-1;
+    border-radius: 50% 50% 25px 25px
+  }
+  p{
+    width: 80;
+    height:50;
+    border-radius:18px;
+    background:#F16B4A;
+    position: absolute;
+    top: 130;
+    left:160
+  }
