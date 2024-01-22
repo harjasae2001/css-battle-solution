@@ -1,0 +1,6 @@
+<div><p><p id="a"><p id="b"><p id="c"><p id="d"><p id="e">
+<p id="f"><style>*{background:#223E1F}div{width:250;
+height:150;background:#dd6b4d;border-radius:10px; background:linear-gradient(to top,#FEFF27 0 20%,#0A9947 20% 80%);margin:75+67}p{width:20;height:60;background:#FEFF27;
+border-radius:0 0 10px 10px;position: absolute;top:59;left:100
+}#a{left:130}#c{left:160}#d{left:190; height:80}#e{left:220}
+#f{left:280}#b{left:250}
