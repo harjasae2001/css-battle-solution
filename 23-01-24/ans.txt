@@ -1,0 +1,39 @@
+<h1></h1>
+<div>
+  <p></p>
+  <p id="a"></p>
+</div>
+<style>
+  *{
+    background:#401653
+  }
+  div {
+    width:120;
+    height:150;
+    background:#A94EA4;
+    clip-path:polygon(0 0,0 67%,50% 100%,100% 67%,100% 0,86% 12%,14% 12%);
+    position:absolute;
+    top: 74;
+    left: 140;
+  }p{
+    width:10;
+    height:70;
+    background:#F7BED9;
+    position:fixed;
+    border-radius:10px;
+    top:99;
+    left:195
+  }
+  #a{
+    height:60;
+    top:74;
+    transform: rotate(90deg)
+  }
+  h1{
+    width:120;
+    height:100;
+    background:#a94ea4;
+    clip-path:circle(50% at 50% 100%);
+    position:absolute;
+    left:140
+  }
