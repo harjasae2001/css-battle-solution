@@ -1,0 +1,7 @@
+<div></div><p><p id="a"><h1><style>*{background:#9F002F}div{
+width:100;height:160;background:#ED3B9A;position:relative;
+clip-path:polygon(0 50%,100% 100%,100% 0);top:63;left:67}p{
+width:105;height:10;background:#F7BED9;position:absolute;
+top:129;right:120}#a{right:75;top:95;width:50;height:80;
+clip-path:polygon(0 50%,100% 100%,100%0)}h1{width:40;top:110; height:40;position:absolute;background:#F7BED9;left:115;
+border-radius:50%;}
