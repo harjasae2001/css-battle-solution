@@ -1,0 +1,2 @@
+<div><style>*{background:#999943}div{width:200;height:180;
+margin:60+92;background:linear-gradient(to top,#F0ED38 011%,#999943 11% 22%,#F0ED38 22.5% 33%,#999943 33.5% 44.5%,#F0ED38 44% 100%);border-radius:200px 200px 0 0}
