@@ -1,0 +1,5 @@
+<div><p></div><div id="a"><p id="b"><style>
+*{background:#FFFFA5}div{width:120;height: 240;background:#FABA41;border-radius:100px;
+margin:-68+52}p{width:80;height:80;top:64;
+border-radius:50%;position:absolute;left:80
+}#a{margin:8+212}#b{left:240;top:124}
