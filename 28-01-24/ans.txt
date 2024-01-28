@@ -1,0 +1,5 @@
+<div></div><div id="a"></div><div class="b"></div><div class="b c"><style>*{
+background:#6F234F}div{width:210;height:30;
+background:#F7BED9;border-radius:30px;
+position:absolute;top:135;left:95}#a{
+transform:rotate(90deg)}.b{transform:rotate(45deg);width:150;left:125}.c{ transform:rotate(-45deg);}
