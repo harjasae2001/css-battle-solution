@@ -1,0 +1,3 @@
+<div></div><div id="a"><style>*{ background:#6A1368}div{width:280;height:180;
+background:#a94ea4;border-radius:20px;margin:60+52;clip-path:polygon(0 50%,15% 50%,32% 83%,68% 17%,85% 50%,100% 50%,100% 0,0 0)}#a{
+margin:-240+52;background:#F7BED9;transform:rotate(180deg)}
