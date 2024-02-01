@@ -1,0 +1,13 @@
+<style>
+  *{
+    background:#0D2328;
+    border-radius:50%;
+    border:25px solid;
+    margin:25 75;
+    rotate:45deg;
+    border-color:#80CDF6#80CDF6#23A440#23A440
+  }
+  body {
+    margin:25;
+    rotate:180deg
+  }
