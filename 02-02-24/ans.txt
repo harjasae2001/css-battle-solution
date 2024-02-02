@@ -1,0 +1,6 @@
+<div></div><div class="b"></div><p><div id="c" class="a b"></div><div class="a">
+<style>*{background:#5C3921}div{width:100;
+height: 100;background:#C17D1B;border-radius:450% 0 0 90px;position:fixed;top:50;
+left:100}.b{transform:rotateY(180deg);left:200}p{width:200;height:40;background:#FBBA24;border-radius:40px;
+margin:160+92}.a{height:40;top:210;
+transform:rotateX(180deg);border-radius:40% 0 0 10px}#c{transform:rotate(180deg)
