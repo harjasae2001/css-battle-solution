@@ -1,0 +1,5 @@
+<div><p class="a"><p></div><div id="a">
+<p class="b"><p class="b a"><style>*{
+background:#FAD3E5}div{width:220;height:60;
+background:#AD2056;margin:70+82}p{width:40; height:40;border-radius:50%;position:fixed; top:64;left:100}#a{ margin:-30+82}.a{left:260
+}.b{top:164}
