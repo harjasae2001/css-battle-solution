@@ -1,0 +1,6 @@
+<div><p><p class="a"><p id="c" class="b a">
+<p class="b"><style>*{background:#F27826;
+border-radius:20px}div{width:250;height:150;
+background:#FED820;margin:75+67; position:relative}p{background:#FFFFA4;
+width:30;height:30;position:absolute;left:30;top:14}.a{background:#F27826;left:-15;
+top:29}.b{height:50;width:50;border-radius:50%;left:140;top:44}#c{top:59;left:225
