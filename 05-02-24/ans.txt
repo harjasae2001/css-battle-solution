@@ -1,0 +1,6 @@
+<div></div><div><div id="b" class="a"></div>
+<div class="a"><style>*{background:#05476C}
+div{width:240;height:40;background:#EFF8FE;
+margin-bottom:80;position:relative;top:62;
+left:72}.a{transform:rotate(90deg);top:-180;
+left:60}#b{top:-60;left:-60}
