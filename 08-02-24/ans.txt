@@ -1,0 +1,1 @@
+<div></div><div class="a"></div><div class="b"></div><div class="b a"><style>*{background:#680039}div{padding:30 85;background:#F28BBB;position:absolute;top:60;left:0}.a{padding:30;top:180;left:110}.b{left:230}
