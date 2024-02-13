@@ -1,0 +1,1 @@
+<div></div><div class="a"></div><div class="a b"></div><p><p id="a"><style>* > p, div{background:#C31C1D}*{ background:#4A1818} div{width:80;height:80;border-radius:50%;top:60;position:absolute;left:160}.a{top:160;left:90}.b{left:230}p{width:20;height:165;position:absolute;top:120;left:190}#a{top:101;transform:rotate(90deg)}
