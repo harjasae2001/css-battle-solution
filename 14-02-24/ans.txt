@@ -1,0 +1,1 @@
+<div class="a"><div class="b"><div><div class="b c"><div class="a d"><style>*{background:#2F2E59;border-radius:15px}* > body,div{background:#EEECF6}body{width:210;height:30;position:relative;top:52;left:87}div{width:30;height:180;position:absolute;left:45}.a{left:0;height:120}.b{left:45;height:150}.c{left:45}.d{left:45
