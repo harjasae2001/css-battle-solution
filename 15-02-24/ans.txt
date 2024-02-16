@@ -1,0 +1,32 @@
+<div></div><p></p><p id="a"></p>
+<style>
+  *{
+    background:#C799CA;
+    box-sizing:border-box
+  }
+  div {
+    position: absolute;
+    top:50;
+    left:0;
+    width: 100%;
+    height: 20px;
+    background: #613243
+  }
+  p{
+    position:absolute;
+    top:34;
+    left:100;
+    height:200;
+    width:200;
+    border-bottom-left-radius:100px;
+    border-bottom-right-radius:100px;
+    border:20px solid #613243;
+    border-top:none
+  }
+  #a{
+    border:20px solid #613243;
+    height:160;
+    width:120;
+    left:140
+  }
+</style>
