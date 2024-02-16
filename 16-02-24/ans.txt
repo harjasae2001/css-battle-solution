@@ -1,0 +1,1 @@
+<p><div></div><p id="a"><style>*{background:#024817}* > div,p{background:#CCE9D3}div{width:200;height:40;margin:62+92}p{width:120;height:60;position:relative;top:47;left:132;clip-path:polygon(0 33%,33.33% 33%,33.33% 0,66.66% 0,66.66% 33%, 100% 33%,100% 100%,0 100%)}#a{transform:rotate(180deg);top:-47}
