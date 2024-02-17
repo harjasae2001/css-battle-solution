@@ -1,0 +1,1 @@
+<div></div><div id="a"></div><div id="b"></div><div id="c"></div><div id="d"></div><div id="e"></div><div id="f"><style>*{background: #B8B4CC}div{position:absolute;top:125;left:175;height:49.5;width:49.5; border-radius:10px; transform:rotate(45deg); background:#453867}#a{left:76}#b{left:274}#c{left:125.7; top:75}#d{left:225;top:75}#e{left:125.7; top:174}#f{left:225;top:174}
